@@ -40,4 +40,4 @@ Se desarrollaron pruebas exhaustivas para garantizar el correcto funcionamiento 
 
 Estas pruebas aseguran que la función `esPalindromo` maneje adecuadamente todas las posibles entradas, tanto válidas como inválidas, y que se comporte de manera robusta ante casos de uso comunes y complejos.
 
-Realizado por Daniel César Vargas Holguín
+Realizado por Daniel César Vargas Holguín y nuestro amigo y vecino Chat Gpt.

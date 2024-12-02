@@ -6,7 +6,7 @@ Programa que determina si una cadena proporcionada por el usuario es un palíndr
 Para ello, se pedirá por teclado al usuario tantas veces como quiera, hasta que escriba la palabra "salir".
 
 Última Modificación: 02/12/2024
-Autor: Daniel César Vargas Holguín
+Autor: Daniel César Vargas Holguín y nuestro amigo y vecino Chat Gpt.
 """
 
 def esPalindromo(cadena):
